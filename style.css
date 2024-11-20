@@ -1,0 +1,13 @@
+P{
+    color:black;
+    font-family: Courier;
+    font-size: 160%;
+    border-radius: ridge;
+
+}
+body{
+    background-color: hsl(60, 56%, 91%);
+}
+img{
+    border-radius: 8px;
+}

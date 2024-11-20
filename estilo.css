@@ -1,0 +1,16 @@
+div.gallery{
+    margin: 10px;
+    border: 1px solid #f3f1de;
+    float: left;
+    width: 280px;
+}
+
+div.gallery img{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+div.desc{
+    padding: flex;
+    justify-content: center;
+}
